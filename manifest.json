@@ -1,0 +1,16 @@
+{
+    "name": "share-to-diaspora.jaywink",
+    "description": "description of share-to-diaspora",
+    "architecture": "all",
+    "title": "share-to-diaspora",
+    "hooks": {
+        "share-to-diaspora": {
+            "apparmor": "share-to-diaspora.apparmor",
+            "desktop": "share-to-diaspora.desktop",
+            "content-hub": "share-to-diaspora-content.json"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Jason Robinson <mail@jasonrobinson.me>",
+    "framework": "ubuntu-sdk-15.04"
+}

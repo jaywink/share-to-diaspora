@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=share-to-diaspora
+Exec=qmlscene $@ Main.qml
+Icon=share-to-diaspora.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
