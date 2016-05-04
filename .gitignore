@@ -1,1 +1,5 @@
+# Python compiled
 *.pyc
+
+# QML project user files
+*.user
