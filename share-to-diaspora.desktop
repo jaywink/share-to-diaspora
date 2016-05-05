@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=share-to-diaspora
-Exec=qmlscene $@ Main.qml
-Icon=share-to-diaspora.png
+Name=Share to diaspora*
+Exec=qmlscene $@ src/Main.qml
+Icon=diaspora-asterisk-256.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true

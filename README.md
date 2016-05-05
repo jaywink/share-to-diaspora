@@ -1,6 +1,6 @@
 # Share to diaspora*
 
-Share to diaspora* app for Ubuntu touch devices.
+Share to diaspora* compatible social sites app for Ubuntu touch devices.
 
 ## What does it do?
 
@@ -8,7 +8,7 @@ When installed, the Share menu for links will have a new entry to share to diasp
 
 ## Limitations
 
-Currently no pod settings exist. Hard coded pod is https://iliketoast.net. Settings coming up asap!
+Due to an [upstream bug](https://bugs.launchpad.net/ubuntu/+source/webbrowser-app/+bug/1571361), shared page title is not delivered by webbrowser-app. This app already tries to use the title, so once that bug is fixed, things should work.
 
 ## Author
 
