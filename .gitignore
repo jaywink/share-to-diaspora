@@ -3,3 +3,10 @@
 
 # QML project user files
 *.user
+
+# SDK, build, etc
+.ubuntu-sdk-deploy
+*.click
+
+# Gettext
+*.pot

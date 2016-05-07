@@ -1,8 +1,8 @@
 {
     "name": "share-to-diaspora.jaywink",
-    "description": "description of share-to-diaspora",
+    "description": "Share links to diaspora* compatible social sites.",
     "architecture": "all",
-    "title": "share-to-diaspora",
+    "title": "Share to diaspora*",
     "hooks": {
         "share-to-diaspora": {
             "apparmor": "share-to-diaspora.apparmor",
@@ -10,7 +10,7 @@
             "content-hub": "share-to-diaspora-content.json"
         }
     },
-    "version": "0.1",
+    "version": "0.4",
     "maintainer": "Jason Robinson <mail@jasonrobinson.me>",
     "framework": "ubuntu-sdk-15.04"
 }
